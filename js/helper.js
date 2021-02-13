@@ -85,9 +85,9 @@ function logClicks(x,y) {
   console.log('x location: ' + x + '; y location: ' + y);
 }
 
-$(document).click(function(loc) {
+//$(document).click(function(loc) {
   // your code goes here!
-});
+//});
 
 
 
